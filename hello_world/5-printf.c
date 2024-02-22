@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main(void)
+ * main - int main(void)
  * printf -imprime une phrase
  * Return: (SUCCES)
  */
