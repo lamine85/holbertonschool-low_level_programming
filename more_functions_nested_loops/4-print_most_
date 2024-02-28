@@ -1,7 +1,0 @@
-#include "main.h"
-
- /**
-  * print numbers
-  * punchar
- *\
-int main (void) 
