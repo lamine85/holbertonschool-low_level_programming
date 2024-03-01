@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int mul(int a, int b) - calcule d'une multiplication
- * @a An input characte for multiplication
- * @b ''     ''     ''      ''      ''
+ *  mul - calcule d'une multiplication
+ * @a: An input characte for multiplication
+ * @b: ''     ''     ''      ''      ''
  * Return: (SUCCESS)
  */
 
