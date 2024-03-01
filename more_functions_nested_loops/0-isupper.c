@@ -1,12 +1,10 @@
-:wq
-:#include "main.h"
-#include <stdio.h>
+#include "main.h"
 
 /**
-*_isupper -descriptions
-*@c:nombre
+* _isupper - descriptions
+* @c:nombre
 *
-*Return:0
+* Return:0
 */
 
 int _isupper(int c)
